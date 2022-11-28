@@ -1,0 +1,35 @@
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 12 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 11GB (68%)
+Info) Creating CUDA device pool and initializing hardware...
+Info) Detected 1 available CUDA accelerator:
+Info) [0] NVIDIA GeForce RTX 2070 with Max-Q Design 36 SM_7.5 @ 1.12 GHz, 7.8GB RAM, KTO, AE3, ZCP
+Info) Detected 1 available TachyonL/OptiX ray tracing accelerator
+Info)   Compiling 1 OptiX shaders on 1 target GPU...
+Info) Dynamically loaded 2 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+Info) Using plugin xyz for structure file Butane_solv_250K-pos-1.xyz
+Info) Using plugin xyz for coordinates from file Butane_solv_250K-pos-1.xyz
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file Butane_solv_250K-pos-1.xyz.
+Info) Analyzing structure ...
+Info)    Atoms: 84
+Info)    Bonds: 78
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 6   Protein: 0   Nucleic: 0
+0
+40001
+file23
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
